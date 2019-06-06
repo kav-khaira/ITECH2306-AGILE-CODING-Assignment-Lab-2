@@ -1,0 +1,15 @@
+Student Jashan of 27 Street Sub, 120001 is enrolled in 
+Course: Course2	 Running Days : 2	 Price : 0.0
+ has registered the following vehicle for parking
+BicycleModel:	Bicycle	Motorised: false
+Motor Bike  : Model:	SazukiMake:	null
+Car : Model:	AudiMake:	null
+BicycleModel:	Bicycle	Motorised: false
+Motor Bike  : Model:	SazukiMake:	null
+Car : Model:	AudiMake:	null
+6
+Student Jagpreet of 275 Street Sub, 120001 is enrolled in 
+0
+Student Kawaljit of 271 Street Sub, 120001 is enrolled in 
+0
+

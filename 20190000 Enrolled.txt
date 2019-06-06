@@ -1,0 +1,3 @@
+Course Course2Fee :0.0 Class size : 3 Num days 2 No. students enrolled 0
+
+
